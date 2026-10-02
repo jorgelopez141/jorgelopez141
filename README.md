@@ -151,26 +151,11 @@ My background mixes business judgment with technical depth, from credit-risk str
 
 Based in **Dallas, Texas**. Open to opportunities across the DFW metroplex and remote.
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dallas, TX",
-        "marker-color": "#2c5364",
-        "marker-size": "large",
-        "marker-symbol": "star"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-96.7970, 32.7767]
-      }
-    }
-  ]
-}
-```
+<p align="center">
+  <a href="https://www.google.com/maps/place/Dallas,+TX/@32.7767,-96.7970,11z">
+    <img src="assets/dallas-map.png" alt="Map of Dallas, Texas" width="100%"/>
+  </a>
+</p>
 
 ---
 
