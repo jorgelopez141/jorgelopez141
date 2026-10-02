@@ -140,10 +140,29 @@ My background mixes business judgment with technical depth, from credit-risk str
 
 ---
 
-## Research Highlight
+## Research Paper Highlight
 
-> **Markowitz Optimization of the Dow Jones Index** *(MSc Capstone, University of Wisconsin)*
-> Showed that applying advanced portfolio-optimization techniques such as **SLSQP** and **double annealing** to the Dow Jones Industrial Average can beat the index's **Sharpe ratio by at least 44%**.
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <a href="https://github.com/jorgelopez141/Markowitz-Optimization-of-the-DJI">
+        <img src="assets/markowitz-portfolio.jpg" alt="Best Portfolio vs DJI: SLSQP-optimized portfolio outperforming the Dow Jones Industrial Average" width="100%"/>
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3><a href="https://github.com/jorgelopez141/Markowitz-Optimization-of-the-DJI">Markowitz Optimization of the Dow Jones Index</a></h3>
+      <p><i>MSc Capstone, University of Wisconsin</i></p>
+      <p>Showed that applying advanced portfolio-optimization techniques such as <b>SLSQP</b> and <b>double annealing</b> to the Dow Jones Industrial Average can beat the index's <b>Sharpe ratio by at least 44%</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SLSQP-1C4E80?style=flat-square" alt="SLSQP"/>
+        <img src="https://img.shields.io/badge/Double%20Annealing-203a43?style=flat-square" alt="Double Annealing"/>
+        <img src="https://img.shields.io/badge/Portfolio%20Theory-0f2027?style=flat-square" alt="Portfolio Theory"/>
+      </p>
+      <a href="https://github.com/jorgelopez141/Markowitz-Optimization-of-the-DJI"><b>View repository →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
